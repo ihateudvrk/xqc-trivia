@@ -5,3 +5,4 @@ When opening the link you are greeted with a start game button. When clicking yo
 ## Website Screenshot
 ![image](https://github.com/ihateudvrk/xqc-trivia/assets/147560589/b34d560c-fbe4-4180-b378-8aa0f481ea4b)
 ## Deployment Link
+https://ihateudvrk.github.io/xqc-trivia/
